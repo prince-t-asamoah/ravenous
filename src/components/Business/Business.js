@@ -1,3 +1,5 @@
+import React from "react";
+
 const business = {
     imageSrc: '../../public/images/piza.jgp',
     name: 'MarginOtto Pizzeria',
